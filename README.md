@@ -1,4 +1,4 @@
-# Portfolio CMS nice
+# Portfolio CMS
 
 ## Portfolio template, made using Netlify CMS
 
